@@ -1,0 +1,25 @@
+{
+  "name": "corp-verse-api",
+  "version": "0.1.0",
+  "description": "API for CorpVerse Solana NFT project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanis-chernes/corp-verse-api.git"
+  },
+  "keywords": [
+    "solana",
+    "web3",
+    "anchor",
+    "corp-verse"
+  ],
+  "author": "Stanislav Chernenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanis-chernes/corp-verse-api/issues"
+  },
+  "homepage": "https://github.com/stanis-chernes/corp-verse-api#readme"
+}
